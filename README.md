@@ -116,7 +116,130 @@ Day 4| Arrays| ⏳
 🌐 Connect With Me
 
 - GitHub: (Add your profile link here)
-- LinkedIn: (Add your profile link here)
+- LinkedIn: ()🚀 Aayush Sharma – MERN Stack Developer Journey
+
+Hi 👋
+I'm Aayush Sharma, a CSE student (4th Semester) and an aspiring MERN Stack Developer.
+This repository documents my daily learning journey, projects, and progress from basics to advanced development.
+
+---
+
+🎯 Goal
+
+To become a job-ready MERN Stack Developer in 9 months by following a structured roadmap and building real-world projects.
+
+---
+
+🛠️ Tech Stack (Learning & Using)
+
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+
+---
+
+📅 Learning Roadmap
+
+✅ Month 1 – JavaScript Fundamentals
+
+- Variables, Data Types, Operators
+- Conditionals & Loops
+- Functions
+- Problem Solving
+
+✅ Month 2 – DOM & Projects
+
+- DOM Manipulation
+- Events
+- Local Storage
+- Mini Projects
+
+🔄 Month 3–4 – React.js
+
+- Components, Props, State
+- Hooks (useState, useEffect)
+- Routing
+- UI Projects
+
+🔄 Month 5–6 – Backend Development
+
+- Node.js
+- Express.js
+- REST APIs
+- Authentication (JWT)
+
+🔄 Month 6–7 – Database
+
+- MongoDB
+- Mongoose
+- CRUD Operations
+
+🔄 Month 7–8 – Full MERN Projects
+
+- Blog App
+- Task Manager
+- Chat App
+
+🔄 Month 8–9 – Deployment & Job Prep
+
+- Deployment (Frontend + Backend)
+- Portfolio Website
+- DSA Practice
+- Internship Preparation
+
+---
+
+📌 Daily Progress Tracker
+
+Week 1
+
+- ✅ Day 1: JavaScript Basics
+- ✅ Day 2: Loops & Conditionals
+- ✅ Day 3: Functions
+- 🔄 Day 4: Arrays
+
+(Will update daily progress here)
+
+---
+
+💻 Projects (Coming Soon)
+
+- 🔹 Calculator App
+- 🔹 To-Do App
+- 🔹 Weather App
+- 🔹 Blog Platform (MERN)
+- 🔹 E-commerce Website
+
+---
+
+📈 Current Focus
+
+Learning JavaScript deeply and improving problem-solving skills.
+
+---
+
+🔥 Motivation
+
+«"Consistency beats talent when talent doesn’t work hard."»
+
+---
+
+📬 Connect With Me
+
+
+- LinkedIn: ("https://www.linkedin.com/in/aayush-vishwakrma-b3868a338" (https://www.linkedin.com/in/aayush-vishwakrma-b3868a338))
+
+---
+
+⭐ Support
+
+If you like this journey, consider giving a ⭐ to this repository!
+
+---
 
 ---
 
