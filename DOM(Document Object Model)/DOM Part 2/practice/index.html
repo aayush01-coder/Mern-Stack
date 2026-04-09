@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>DOM Manipulation Practice</title>
+  <style>
+    #box{
+      height: 100px;
+      width: 100px;
+      color:white;
+      background-color: red;
+      border: 1px solid black;
+    }
+  </style>
+</head>
+<body>
+<script>
+
+  let newBtn = document.createElement('button');
+  newBtn.innerText = ' Click me';
+  
+  let div = document.querySelector('body');
+  div.prepend(newBtn);
+
+ let bgcolor = document.querySelector('button');
+  bgcolor.style.backgroundColor = 'red';
+  bgcolor.style.color = 'white';
+  
+</script>
+</body>
+</html>
