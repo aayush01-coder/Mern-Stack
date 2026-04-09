@@ -1,0 +1,11 @@
+<!-- The changes in the state of an object is known is Event -->
+
+<!-- Event are fired to nof=tify code of " interesting changes " that may afftect code executin -->
+
+<!-- Mouse event (click,doubleclick elec)
+<! Keybord event (ketpress,keyup,keydown etc)
+<! form event (submit etc)
+<! Print evnet and many more
+
+
+
